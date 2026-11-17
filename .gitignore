@@ -1,0 +1,6 @@
+gta6-twitch-ccu-forecast-01-kit/
+kit.tar.gz
+out/
+node_modules/
+__pycache__/
+*.pyc
